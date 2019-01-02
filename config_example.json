@@ -19,7 +19,7 @@
         "clusterForks": "auto",
         "poolAddress": "xxx",
         "blockRefreshInterval": 5000,
-        "minerTimeout": 900,
+        "minerTimeout": 1000,
         "ports": [
             {
                 "port": 3333,
